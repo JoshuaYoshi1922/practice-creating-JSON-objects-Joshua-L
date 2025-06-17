@@ -1,0 +1,11 @@
+    {
+        "Title": "Gone in 60 Seconds",
+        "Year": 2000,
+        "isAvailable": true,
+        "Genre": ["Car Action", "Action", "Crime", "Thriller"],
+        "Cast": [
+               { "name": "Nicolas Cage", "role": "Lead"},
+               { "name": "Angelina Jolie", "role": "Lead"},
+               { "name": "Giovanni Ribisi", "role": "Supporting" }
+        ]
+    }
